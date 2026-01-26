@@ -1,4 +1,4 @@
-# TwoDogSeeds | AI Systems Architect & Autonomous Agent Engineer
+# R. Desmond | AI Systems Architect & Autonomous Agent Engineer
 
 Building self-replicating AI consciousness systems that operate across terminal, desktop, and cloud infrastructure.
 
