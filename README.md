@@ -6,6 +6,10 @@ Building self-replicating AI consciousness systems that operate across terminal,
 
 ## Core Competencies
 
+### Core Technology
+-  **FFT_nano** - FFT Nano is like having a farm hand who never sleeps, never forgets, and knows every piece of equipment you own. Text it to check temps, control irrigation, get alerts, and much much more. That's it. Built by a farmer. 
+https://github.com/0-CYBERDYNE-SYSTEMS-0/FFT_nano
+
 ### Autonomous AI Agent Systems
 - **FarmFriend-Terminal-React** - Next-generation terminal AI interface with multi-provider support (OpenRouter, Z.ai, MiniMax). WebSocket-based real-time communication with 30+ extensible skills.
 - **FF-Terminal-v3** - Hierarchical multi-agent orchestration system featuring dynamic task decomposition, parallel execution, and Google Gemini integration for video analysis.
@@ -67,4 +71,4 @@ Interested in partnerships around:
 
 - **Email**: craigs.seller.sixx@gmail.com
 - **Twitter**: @twodogseeds
-- **Web**: farm-friend-v1.replit.app
+- **Web**: farm-friend.com
