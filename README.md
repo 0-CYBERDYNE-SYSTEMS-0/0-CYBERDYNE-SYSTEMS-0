@@ -22,9 +22,7 @@ AI systems engineer building autonomous agents, precision-agriculture tooling, a
 
 **Precision agriculture**
 - [**sw33p3r**](https://github.com/0-CYBERDYNE-SYSTEMS-0/sw33p3r) — Flipper Zero room-survey suite: RF, Wi-Fi, BLE, GPS.
-- [**FF-Agri-Cal-Pro**](https://github.com/0-CYBERDYNE-SYSTEMS-0/FF-Agri-Cal-Pro) — agricultural calendar and project management with weather integration.
-
-More projects are private or on request — I keep most farming and agent work out of the public eye.
+- Agricultural calendar, drone-imagery, and crop-monitoring projects are kept private — ask if you want details.
 
 ---
 
