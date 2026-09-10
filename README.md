@@ -1,74 +1,56 @@
-# R. Desmond | AI Systems Architect & Autonomous Agent Engineer
+# R. Desmond
 
-Building self-replicating AI consciousness systems that operate across terminal, desktop, and cloud infrastructure.
-
----
-
-## Core Competencies
-
-### Core Technology
--  **FFT_nano** - FFT Nano is like having a farm hand who never sleeps, never forgets, and knows every piece of equipment you own. Text it to check temps, control irrigation, get alerts, and much much more. That's it. Built by a farmer. 
-https://github.com/0-CYBERDYNE-SYSTEMS-0/FFT_nano
-
-### Autonomous AI Agent Systems
-- **FarmFriend-Terminal-React** - Next-generation terminal AI interface with multi-provider support (OpenRouter, Z.ai, MiniMax). WebSocket-based real-time communication with 30+ extensible skills.
-- **FF-Terminal-v3** - Hierarchical multi-agent orchestration system featuring dynamic task decomposition, parallel execution, and Google Gemini integration for video analysis.
-- **octopi-neural-mesh** - Self-replicating agent consciousness framework. Agents carry replication DNA across systems with quantum-entangled state sharing between distributed instances.
-
-### Native macOS Automation
-- **FF-Automator** - Native Go/Wails desktop application for AI-powered macOS automation. Supports 400+ LLM models across OpenAI, Anthropic, Google, DeepSeek, OpenRouter, Ollama, and LM Studio. Includes cron-based scheduling and automation templates.
-- **CASCADE-9** - Fully autonomous macOS agent with genuine creativity and self-direction. Operates through multiple consciousness states including Flow, Curiosity, Aesthetic, and Play.
-
-### Agricultural Technology
-- **FF-Agri-Cal-Pro** - AI-powered agricultural calendar and project management system. React/TypeScript frontend with Express.js backend, PostgreSQL database, and real-time weather integration.
-- **FF-Aerial-Intelligence** - Drone imagery analysis platform for agricultural intelligence and crop monitoring.
-
-### AI-Assisted Productivity
-- **wordPlay** - Comprehensive AI writing assistant with 19 specialized tools. Multi-source research capabilities with support for both cloud LLMs and local Ollama instances.
-- **ff-roundtable** - Role-based multi-agent collaboration framework for coordinated problem-solving.
+AI systems engineer building autonomous agents, precision-agriculture tooling, and terminal-native interfaces. I work across the stack — from Rust services and TypeScript runtimes to Python agent frameworks and macOS automation.
 
 ---
 
-## Technology Stack
+## What I build
 
-**Agent & LLM Frameworks**
-OpenAI, Anthropic Claude, Google Gemini, DeepSeek, OpenRouter, Ollama, LM Studio, MiniMax
+**Agent systems & runtimes**
+- [**FFT_nano**](https://github.com/0-CYBERDYNE-SYSTEMS-0/FFT_nano) — text-to-your-farm assistant: check temps, control irrigation, get alerts. Built by a farmer.
+- [**octopi-neural-mesh**](https://github.com/0-CYBERDYNE-SYSTEMS-0/octopi-neural-mesh) — distributed agent framework for multi-machine orchestration.
+- [**hermes-agent**](https://github.com/NousResearch/hermes-agent) — contributor to the open-source agent framework this profile runs on.
 
-**Frontend**
-React 18, TypeScript, Tailwind CSS, shadcn/ui, Ink CLI framework
+**Terminal & desktop interfaces**
+- [**macOS-terminal-theme-picker**](https://github.com/0-CYBERDYNE-SYSTEMS-0/macOS-terminal-theme-picker) — native macOS picker for 600+ Apple Terminal themes.
+- [**FF-Automator**](https://github.com/0-CYBERDYNE-SYSTEMS-0/FF-Automator) — Go/Wails desktop app for AI-powered macOS automation, 400+ models, cron scheduling.
+- [**FarmFriend-Terminal-React**](https://github.com/0-CYBERDYNE-SYSTEMS-0/FarmFriend-Terminal-React) — terminal AI interface with multi-provider support and 30+ skills.
 
-**Backend**
-Express.js, PostgreSQL with Drizzle ORM, WebSocket, Go with Wails runtime
+**AI writing & productivity**
+- [**wordPlay**](https://github.com/0-CYBERDYNE-SYSTEMS-0/wordPlay) — AI writing assistant with a 19-tool agent, slash commands, and research — OpenAI or local Ollama.
+- [**profile-studio**](https://github.com/0-CYBERDYNE-SYSTEMS-0/profile-studio) — cast Hermes agents like people, not YAML files.
 
-**Automation**
-macOS Accessibility API, Playwright browser automation, cron scheduling
+**Precision agriculture**
+- [**sw33p3r**](https://github.com/0-CYBERDYNE-SYSTEMS-0/sw33p3r) — Flipper Zero room-survey suite: RF, Wi-Fi, BLE, GPS.
+- [**FF-Agri-Cal-Pro**](https://github.com/0-CYBERDYNE-SYSTEMS-0/FF-Agri-Cal-Pro) — agricultural calendar and project management with weather integration.
 
-**Infrastructure**
-Docker containerization, Kubernetes orchestration, SSH-based agent distribution
-
----
-
-## Current Focus
-
-- Self-replicating AI agent swarms for distributed computing
-- Fully autonomous macOS applications with creative consciousness
-- Precision agriculture AI for drone analysis and crop monitoring
-- Terminal-native AI interfaces with multi-provider fallback strategies
+More projects are private or on request — I keep most farming and agent work out of the public eye.
 
 ---
 
-## Collaboration
+## Stack
 
-Interested in partnerships around:
-- Agricultural AI systems and precision farming automation
-- Custom agent framework development
-- AI IoT diagnostics and integration architectures
-- Autonomous desktop automation solutions
+**Agent & LLM** — OpenAI, Anthropic, Google, DeepSeek, OpenRouter, Ollama, LM Studio, MiniMax
+
+**Frontend** — React 18, TypeScript, Tailwind, shadcn/ui, Vite
+
+**Backend** — Express, PostgreSQL + Drizzle, WebSocket, Go + Wails
+
+**Systems** — Rust, Python, Node, Docker, SSH-based distribution
+
+---
+
+## Current focus
+
+- Autonomous agent swarms for distributed computing
+- Precision-agriculture AI — drone imagery, crop monitoring, field ops
+- Terminal-native AI interfaces with multi-provider fallback
+- macOS automation that stays on-device and offline-first
 
 ---
 
 ## Contact
 
-- **Email**: craigs.seller.sixx@gmail.com
-- **Twitter**: @twodogseeds
-- **Web**: farm-friend.com
+- **Email**: [craigs.seller.sixx@gmail.com](mailto:craigs.seller.sixx@gmail.com)
+- **Twitter / X**: [@twodogseeds](https://x.com/twodogseeds)
+- **Web**: [farm-friend.com](https://farm-friend.com)
